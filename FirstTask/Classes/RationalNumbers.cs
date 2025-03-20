@@ -68,10 +68,7 @@ namespace FirstTask.Classes
             return new RationalNumbers(num / gcd1, den / gcd1);
         }
 
-        public string toString()
-        {
-            return string.Format("{0}/{1}", Numerator, Denominator);
-        }
+   
 
         public static RationalNumbers operator +(RationalNumbers number1, RationalNumbers number2)
         {
