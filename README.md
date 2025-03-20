@@ -1,1 +1,1 @@
-# OOPLabs
+First laboratory work
